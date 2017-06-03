@@ -3,7 +3,7 @@ This project demostrates a simple client-server Web Service which takes list and
 ## Usage
 1. Clone this repository
 
-    $ git clone https://github.com/ykondrashyn/webservice-example.git
+     $ git clone https://github.com/ykondrashyn/webservice-example.git
 
 2. Open Netbeans and import client and server as two separate projects
 
@@ -11,4 +11,4 @@ This project demostrates a simple client-server Web Service which takes list and
 
 4. Run the client project
 
-5. New browser window will open, type here numbers separated by spaces
+5. New browser window will open, type there numbers separated by spaces
